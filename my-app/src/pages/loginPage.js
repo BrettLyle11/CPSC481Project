@@ -28,7 +28,8 @@ return <div className='col justify-conent-center' style={{ height: '100vh', widt
                         <input type='password' className='form-control' id='exampleInputPassword1'style={{border:"3px solid grey"}} />
                     </div>
 
-                    <button type='submit' className='btn btn-primary' style={{ marginRight: "100px" }}>Login</button>
+                    <button type='submit' className='btn btn-primary' >Login</button>
+                    <button type='Creat Account' className='btn btn-primary'style={{marginLeft:"20px", marginRight: "100px" }} >Register</button>
                     <p1 style={{ cursor: "pointer", textDecoration: 'underline', color: 'blue' }}>Forgot Password?</p1>
                 </form>
             </div>
